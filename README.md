@@ -13,7 +13,9 @@ The 3D assets were built using Blender software which were then exported to Unre
 the main game was built.
 
 
-<img width="197" alt="image" src="https://github.com/shivanshi-375/Crystal-Lattice-VR/assets/90423511/7395e65b-4a93-46f7-9ab3-bac214b12041">
+<img width="250" alt="image" src="https://github.com/shivanshi-375/Crystal-Lattice-VR/assets/90423511/7395e65b-4a93-46f7-9ab3-bac214b12041">
+
+
 <img width="213" alt="image" src="https://github.com/shivanshi-375/Crystal-Lattice-VR/assets/90423511/737ba59d-9188-48ad-b304-7a83c5f021cb">
 
 
@@ -54,5 +56,7 @@ and information about the structure. This can be done without the person having 
 or have to tinker with the VR tools at all. I tested this by adding two new structures: Rutile (TiO2)
 and Fluorite (CaF2).
 
-<img width="478" alt="image" src="https://github.com/shivanshi-375/Crystal-Lattice-VR/assets/90423511/020f81f8-f352-4fbf-84f1-8d35d7cdd394">
+<img width="1300" alt="Screenshot 2023-12-11 at 9 20 55 PM" src="https://github.com/shivanshi-375/Crystal-Lattice-VR/assets/90423511/4f71cea0-f479-4933-8577-2d8da11477d7">
+
+
 
